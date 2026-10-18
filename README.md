@@ -1,3 +1,4 @@
+<img width="2048" height="1152" alt="WhatsApp Image 2026-10-18 at 3 34 27 PM" src="https://github.com/user-attachments/assets/2e1fca36-f271-4582-81cb-288472356936" />
 <div align="center">
   <img src="banner.png" width="100%" style="border-radius: 12px;" />
 </div>
