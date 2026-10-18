@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hola 👋
+
+<!-- Basic status badges -->
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Tests](https://img.shields.io/badge/tests-24%20passed-green)
+![Coverage](https://img.shields.io/badge/coverage-87%25-yellow)
+![Version](https://img.shields.io/badge/version-1.2.0-blue)
+
+<!-- Styled badges -->
+![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
+![Platform](https://img.shields.io/badge/platform-linux%20%7C%20macos%20%7C%20windows-lightgrey?style=for-the-badge)
 
 <!--
 **cesarrmixer-beep/cesarrmixer-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
