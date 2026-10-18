@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hola Soy César Rodriguez  👋
 
+<img width="1200" height="627" alt="Image (2)" src="https://github.com/user-attachments/assets/f4c173cc-e6d4-468d-90c1-b6ef8c875e63" />
+ 
 <!--
 **cesarrmixer-beep/cesarrmixer-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
