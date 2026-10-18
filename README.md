@@ -1,4 +1,4 @@
-## Hola soy César Rodriguez Jr. Data Analyst👋
+## Hola soy César Rodriguez👋
 
 <!--
 **cesarrmixer-beep/cesarrmixer-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
