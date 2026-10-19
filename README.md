@@ -8,7 +8,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E15718?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+
 
 </div>
 
@@ -16,7 +16,7 @@
 
 - 🌱 Actualmente estoy aprendiendo más sobre Tableau y Power BI
 - 👯 Me gustaría colaborar en proyectos de análisis de datos
-- 💬 Pregúntame sobre atención al cliente, manejo de personal y manejo de inventarios
+- 💬 Pregúntame sobre pruebas A/B, limpieza y manejo de datos, visualización
 - ⚡ Fun fact: me encanta el anime y los coleccionables
 
 <div align="center">
